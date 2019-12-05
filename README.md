@@ -13,7 +13,7 @@
 * Bazı yerlerde de efektlerin tümünü ya da bir kısmını devre dışı bırakan trigger'lar bulunmaktadır. (Yağmur bir yerde başlayınca daha sonra başka bir yerden sonra durabilir.)
 
 Bunun için [**Stripper:Source**](https://www.bailopan.net/stripper/) adlı SourceMod'dan bağımsız bir sunucu eklentisi kullanılmıştır.
-Eklenti kurulu değilse bu pakette yer almaktadır.
+Eklenti kurulu değilse bu pakette güncel Linux sürümü yer almaktadır. (Sunucu Windows ise sitesinden Windows sürümü mevcuttur.)
 
 ## Kurulum
 * **addons** klasörünü direk sunucu dizinindeki **left4dead2** klasörüne atınız.
