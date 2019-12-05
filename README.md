@@ -24,7 +24,13 @@ _(yakında eklenecek)_
 
 ----
 * Efektlerle ilgili sorularınız, bulduğunuz hatalar için bu repoya Issue açabilir veya beni [Steam'den ekleyeyip mesaj atabilirsiniz](https://steamcommunity.com/id/AshesBeneathOfficial)
-* Test etme sürecinde bana yardım ettikleri teşekkür ederim:
+
+### Yararlandığım Kaynaklar
+* [Valve Entity Listesi](https://developer.valvesoftware.com/wiki/List_of_entities)
+* [L4DNation Wiki Stripper:Source Başlığı](https://www.l4dnation.com/wiki/Stripper:Source)
+* [bb_IU Stripper Config Files Rehberi](https://gflclan.com/forums/topic/47449-stripper-cfgs-guide/)
+### Katkıda bulunanlar
+Test etme sürecinde bana yardım ettikleri teşekkür ederim:
 C43B,
 Keşanlı,
 ◕ℛқ◕
