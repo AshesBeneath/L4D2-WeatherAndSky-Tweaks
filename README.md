@@ -5,7 +5,6 @@
 
 [**Stripper:Source**](https://www.bailopan.net/stripper/) adlı SourceMod'dan bağımsız bir sunucu eklentisi kullanılmıştır. Eklenti sunucuda kurulu değilse bu pakette yer almaktadır.
 
-----
 ## Özellikleri
 * Belirli senaryoların haritalarına yağmur, bulutlu hava, sis, şimşek, yıldırım ekler. _(Değiştirilen tüm unsurlar sadece görsel efekt amaçlıdır)_
 * Eklenen hava şartları mapların belirli bölgelerinde bulunan "trigger" denen görünmez entitiyler tarafından kontrol edilmektedir. Herhangi bir sağ kalan (bazı haritalarda tüm sağ kalan takımı) triggerlardan geçtiğinde efektler devreye girmektedir.
@@ -15,7 +14,6 @@
 Bunun için [**Stripper:Source**](https://www.bailopan.net/stripper/) adlı SourceMod'dan bağımsız bir sunucu eklentisi kullanılmıştır.
 Eklenti kurulu değilse bu pakette yer almaktadır.
 
-----
 ## Kurulum
 * **addons** klasörünü direk sunucu dizinindeki **left4dead2** klasörüne atınız.
 * Eklentinin yüklenmesi için sunucuyu yeniden başlatınız.
@@ -24,6 +22,7 @@ Eklenti kurulu değilse bu pakette yer almaktadır.
 ## Yapılan Değişiklikler
 _(yakında eklenecek)_
 
+----
 * Efektlerle ilgili sorularınız, bulduğunuz hatalar için bu repoya Issue açabilir veya beni [Steam'den ekleyeyip mesaj atabilirsiniz](https://steamcommunity.com/id/AshesBeneathOfficial)
 * Test etme sürecinde bana yardım ettikleri teşekkür ederim:
 C43B,
