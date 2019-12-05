@@ -1,6 +1,7 @@
 ## Left 4 Dead 2 Resmi Senaryoları İçin Precipitation & Sky Efektleri
 
 **_SADECE L4D2 DEDICATED SUNUCULARI İÇİNDİR_**
+
 **_Sadece Kapışma (Versus), Gerçekçi Kapışma (Realism Versus) ve 8 kişilik resmi mutasyonlar desteklenmektedir. Coop modunda tüm efektler çalışmayabilir._** 
 
 [**Stripper:Source**](https://www.bailopan.net/stripper/) adlı SourceMod'dan bağımsız bir sunucu eklentisi kullanılmıştır. Eklenti sunucuda kurulu değilse bu pakette yer almaktadır.
